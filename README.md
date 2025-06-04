@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif?height=250&width=800" alt="Developer Banner" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3R3amF2NGpkYXowaTh5bmRjN3JiaGl2dXI3OTd1ZWUweTV1ZHRhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif?height=250&width=800" alt="Developer Banner" />
 </div>
 
 <div align="center">
