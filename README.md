@@ -44,7 +44,7 @@ I'm a **2nd Year Computer Engineering Student** at **ESPRIT** with a passion for
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/angular-icon.svg" alt="Angular" width="65" height="65" />
+      <img src="https://brandlogos.net/wp-content/uploads/2025/04/angular_icon-logo_brandlogos.net_jn7wi.png" alt="Angular" width="65" height="65" />
       <br>Angular
     </td>
     <td align="center" width="96">
@@ -172,8 +172,6 @@ I'm a **2nd Year Computer Engineering Student** at **ESPRIT** with a passion for
 
 
 ## <div align="center">🐍 My Contributions</div>
+![snake_gif](https://github.com/EmnaOuerghemmi/EmnaOuerghemmi/blob/output/github-snake-dark.svg)
 
-<div align="center">
-  <img src="https://github.com/EmnaOuerghemmi/EmnaOuerghemmi/blob/output/github-contribution-snake.svg" alt="Snake animation" />
-</div>
 
