@@ -166,3 +166,13 @@ I'm a **2nd Year Computer Engineering Student** at **ESPRIT** with a passion for
 <div align="center">
   <em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em>
 </div>
+
+
+
+
+
+
+
+
+![snake gif](https://github.com/EmnaOuerghemmi/EmnaOuerghemmi/blob/output/github-contribution-grid-snake.svg)
+
