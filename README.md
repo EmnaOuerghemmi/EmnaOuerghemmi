@@ -171,8 +171,9 @@ I'm a **2nd Year Computer Engineering Student** at **ESPRIT** with a passion for
 
 
 
+## <div align="center">🐍 My Contributions</div>
 
-
-
-![snake gif](https://github.com/EmnaOuerghemmi/EmnaOuerghemmi/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/EmnaOuerghemmi/EmnaOuerghemmi/blob/output/github-contribution-snake.svg" alt="Snake animation" />
+</div>
 
