@@ -24,8 +24,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           # These are optional, you can customize the colors and outputs
-          svg_out_path: dist/github-contribution-snake.svg
-          gif_out_path: dist/github-contribution-snake.gif
+          svg_out_path: dist/github-contribution-snake0.svg
+          gif_out_path: dist/github-contribution-snake0.gif
           
       # Push the changes
       - name: Push changes to output branch
