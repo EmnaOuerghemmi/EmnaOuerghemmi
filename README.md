@@ -112,11 +112,20 @@ I'm a **2nd Year Computer Engineering Student** at **ESPRIT** with a passion for
 </div>
 
 <div align="center">
+  <a href="https://github.com/walaammar/journal-personnel-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=walaammar&repo=journal-personnel-ai&theme=tokyonight" alt="AI-Powered Personal Journal" />
+  </a>
   <a href="https://github.com/MicrroServiceProject/MicroProject">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MicrroServiceProject&repo=MicroProject&theme=tokyonight" alt="Art World - Artistic Events Platform" />
   </a>
   <a href="https://github.com/wiem-2001/BellyBump">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wiem-2001&repo=BellyBump&theme=tokyonight" alt="BellyBump - Maternal Wellness App" />
+  </a>
+   <a href="https://github.com/EmnaOuerghemmi/magasin_pi-ce_echange">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmnaOuerghemmi&repo=magasin_pi-ce_echange&theme=tokyonight" alt="E-commerce Platform - Smart IT Partner" />
+  </a>
+  <a href="https://github.com/EmnaOuerghemmi/LaravelProject">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmnaOuerghemmi&repo=LaravelProject&theme=tokyonight" alt="Laravel Web Application" />
   </a>
 </div>
 
